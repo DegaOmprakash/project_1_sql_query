@@ -1,12 +1,12 @@
-# 🛍️ Retail Sales Analysis - SQL Project
+# Retail Sales Analysis - SQL Project
 
-**Level:** Beginner | **Database:** PostgreSQL | **Status:** ✅ Complete
+**Level:** Beginner | **Database:** PostgreSQL | **Status:**  Complete
 
 A comprehensive SQL-based data analysis project demonstrating proficiency in database design, data cleaning, exploratory data analysis (EDA), and business intelligence through advanced SQL queries.
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 This project showcases the complete data analysis workflow using SQL:
 - **Database Setup**: Designed and created a normalized retail sales database
@@ -133,7 +133,7 @@ GROUP BY shift
 ```
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 | Technology | Purpose |
 |-----------|---------|
@@ -157,39 +157,39 @@ project_1_sql_query/
 
 ---
 
-## 🔍 SQL Techniques Demonstrated
+##  SQL Techniques Demonstrated
 
-✅ **Data Definition Language (DDL)**
+ **Data Definition Language (DDL)**
 - Table creation with constraints and data types
 
-✅ **Data Manipulation Language (DML)**
+ **Data Manipulation Language (DML)**
 - INSERT, UPDATE, DELETE operations
 
-✅ **Advanced Querying**
+ **Advanced Querying**
 - Window Functions (RANK, ROW_NUMBER, PARTITION BY)
 - Common Table Expressions (CTEs)
 - Subqueries & nested queries
 - GROUP BY with HAVING clauses
 - Date/Time functions (EXTRACT, TO_CHAR)
 
-✅ **Data Quality**
+ **Data Quality**
 - NULL value detection & removal
 - Data validation checks
 - Referential integrity verification
 
 ---
 
-## 📊 Key Business Insights
+##  Key Business Insights
 
 1. **Revenue Concentration**: Top 5 customers account for 8.2% of total revenue
 2. **Seasonal Optimization**: Q4 (Oct-Nov) shows 15% higher average transaction values
 3. **Category Mix**: Balanced revenue across all categories (30-38% each)
 4. **Customer Retention**: 68% repeat customer rate indicates strong loyalty
-5. **Time-Based Strategy**: Afternoon peak (12-5 PM) justifies staff scheduling optimization
+5. **Time-Based Strategy**: Evening peak After 7PM justifies staff scheduling optimization
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - PostgreSQL (v12+)
@@ -223,33 +223,33 @@ CREATE TABLE retail_sales (
 
 ---
 
-## 📈 Results & Deliverables
+##  Results & Deliverables
 
-✅ **10 Business Questions Answered** with SQL solutions  
-✅ **Data Quality Score**: 98.5% (complete records)  
-✅ **Analysis Coverage**: 2,000 transactions analyzed  
-✅ **Actionable Insights**: 5+ strategic recommendations  
-✅ **Query Optimization**: Average query execution <500ms  
+ - **10 Business Questions Answered** with SQL solutions  
+ - **Data Quality Score**: 98.5% (complete records)  
+ - **Analysis Coverage**: 2,000 transactions analyzed  
+ - **Actionable Insights**: 5+ strategic recommendations  
+ - **Query Optimization**: Average query execution <500ms  
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates mastery in:
-- ✅ Database schema design & optimization
-- ✅ Data cleaning & quality assurance
-- ✅ Complex SQL queries (subqueries, CTEs, window functions)
-- ✅ Statistical analysis & aggregation
-- ✅ Business problem-solving using data
-- ✅ Query performance optimization
+-  Database schema design & optimization
+-  Data cleaning & quality assurance
+-  Complex SQL queries (subqueries, CTEs, window functions)
+-  Statistical analysis & aggregation
+-  Business problem-solving using data
+-  Query performance optimization
 
 ---
 
-## 📞 Let's Connect
+##  Let's Connect
 
 **Portfolio**: [View on LinkedIn](https://www.linkedin.com/in/degaomprakash)  
 **Questions?** Open an issue or reach out!
 
 ---
 
-**Status**: ✅ Complete | **Last Updated**: March 2026
+**Status**:  Complete | **Last Updated**: March 2026

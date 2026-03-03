@@ -247,7 +247,7 @@ This project demonstrates mastery in:
 
 ##  Let's Connect
 
-**Portfolio**: [View on LinkedIn](https://www.linkedin.com/in/degaomprakash)  
+**Portfolio**: [View on LinkedIn](https://www.linkedin.com/in/omprakash-dega-314343248/)  
 **Questions?** Open an issue or reach out!
 
 ---
